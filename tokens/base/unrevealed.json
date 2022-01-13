@@ -1,0 +1,7 @@
+{
+    "name": "Unrevealed Zombie",
+    "description": "This is either a Grunt Zombie or an Alpha Zombie, which will be revealed within 2 Fantom blocks. Stake this zombie at zombies.game to collect BRAIN!",
+    "external_url": "https://zombies.game",
+    "image": "https://zombies.game/tokens/grunt/unrevealed.png",
+    "attributes": []
+}
